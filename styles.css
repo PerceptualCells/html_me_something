@@ -1,0 +1,26 @@
+   
+      
+body {
+  background-color: cornflowerblue;   
+       
+       
+}
+      
+h1 {
+  align-content : center;
+  border: 3px solid powderblue;
+  padding: 30px;
+  color: white;
+  background-color: 
+  text-align: center;
+      }
+      
+      p {
+        align-content : center;
+        border: 1px solid powderblue;
+        padding: 30px;
+        
+        font-family: verdana;
+        font-size: 20px;
+      }      
+      footer {}
