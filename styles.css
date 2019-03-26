@@ -1,26 +1,36 @@
    
       
 body {
-  background-color: cornflowerblue;   
-       
+  background-color: cornflowerblue;
+  image-rendering:optimizeQuality;     
        
 }
       
 h1 {
-  align-content : center;
+  
   border: 3px solid powderblue;
+  border-radius:10px;
   padding: 30px;
   color: white;
-  background-color: 
-  text-align: center;
-      }
+  background-color: sandybrown;
+  text-align:center;  
+  }
       
-      p {
-        align-content : center;
-        border: 1px solid powderblue;
-        padding: 30px;
-        
-        font-family: verdana;
-        font-size: 20px;
-      }      
-      footer {}
+p {
+  align-content : center;
+  border: 1px solid powderblue;
+  padding: 30px;    
+  font-family: verdana;
+  font-size: 20px;
+  }      
+
+footer {
+  text-align:center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  }      
