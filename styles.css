@@ -1,5 +1,3 @@
-   
-      
 body {
   background-color: cornflowerblue;
   image-rendering:optimizeQuality;  
@@ -44,3 +42,9 @@ footer {
   margin-right: auto;
   width: 50%;
   }      
+  .sidebar {
+    margin-left: 600px; 
+    position: absolute; 
+    top: 0; 
+    right: 0;
+    }
